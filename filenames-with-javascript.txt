@@ -1,0 +1,6 @@
+/home/ubuntu/workspace/.git/index
+/home/ubuntu/workspace/.c9/metadata/tab1
+/home/ubuntu/workspace/README.md
+/home/ubuntu/workspace/src/on-demand/index.html
+/home/ubuntu/workspace/src/_data/fulltime_learn.json
+/home/ubuntu/workspace/src/_layouts/default.html
