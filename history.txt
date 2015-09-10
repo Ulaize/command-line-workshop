@@ -1,0 +1,5 @@
+    1  nano history.txt
+    2  rm history.txt
+    3  ls
+    4  history
+    5  history > history.txt
